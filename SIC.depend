@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1381385865 source:c:\cpp\sic\main.cpp
+	<fstream>
+	<string>
+	<iostream>
+	<cstdlib>
+	<map>
+
+1381385865 source:i:\cpp\sic\main.cpp
+	<fstream>
+	<string>
+	<iostream>
+	<cstdlib>
+	<map>
+
